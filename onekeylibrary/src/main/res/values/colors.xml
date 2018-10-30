@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F9F9F9</color>
+    <color name="colorPrimaryDark">#F9F9F9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorPrimary">#757575</color>
+    <color name="list_bg">#f2f2f2</color>
+    <color name="CTASDKBackgroundColor">#F9F9F9</color>
+</resources>
